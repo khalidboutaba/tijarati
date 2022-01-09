@@ -1,2 +1,0 @@
-# tijarati
-shop management system
